@@ -1,0 +1,1 @@
+# oraclize-a-variable-and-pass-into-a-token
